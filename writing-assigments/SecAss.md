@@ -1,5 +1,5 @@
  > #   A Beginners Guide to Glasp
- ![intro](pictures/intro.png)
+ ![intro](images/intro.png)
 
 > ## Table of contents
 
@@ -50,14 +50,14 @@ Glasp can be added as an extension to all web browsers, The installation procedu
 
 **Step Two:** Click on the Install on Chrome icon on the down-left corner of your browser to install Glasp.
 
-![signup](pictures/signup.png)
+![signup](images/signup.png)
 
 **Step Three:** Click on the Add to Chrome tab to install the extension.
-![addtohrome](pictures/tochrome.png)
+![addtohrome](images/tochrome.png)
 
 
 **Step Four:** Click on the "add extension tab to add Glasp as an extension, the browser will download the extension immediately and you will be directed to its homepage. Pin the extension for efficiency.
-![addglasp](pictures/addglasp.png)
+![addglasp](images/addglasp.png)
 
 
 ### How to Install Glasp on Safari
@@ -71,11 +71,11 @@ To get a detailed procedure on how to install Glasp on your Safari browser, clic
  Signing up on the Glasp platform gives you unlimited access to the platform, You can sign up with the steps below: 
 
 **Step One:** Click on the continue with google ta b, at the right corner of your web browser.
-![googlesignup](pictures/signwithg.jpg)
+![googlesignup](images/signwithg.jpg)
 
 **Step Two:** Input your preferred Email into the tab and click, your account is ready for use.
 
-![chooeaccount](pictures/chooacc.png)
+![chooeaccount](images/chooacc.png)
 
 > ## How to Use Glasp
 
@@ -83,13 +83,13 @@ To get a detailed procedure on how to install Glasp on your Safari browser, clic
  Setting up your Glasp account gives you an identity and a sense of belonging, you can set up your account with these steps below.
 
 **Step One:** Click on my highlights tab at the top left corner of your screen.
-![profile](pictures/profilesetup.png)
+![profile](images/profilesetup.png)
 
 
 **Step Two:** Click on the three dots to edit your profile.
 
 **Step Three:** input your display name, username, bio, and location, and upload your image. Input links to your preferred social media accounts.
-![setup](pictures/accsetup.png)
+![setup](images/accsetup.png)
 
 **Step four**: Save your details, and you have successfully added your profile.
 
@@ -98,11 +98,11 @@ To get a detailed procedure on how to install Glasp on your Safari browser, clic
 Highlighting on Glasp can be done with the following steps below.
 
 **Step One:** Click on the home tab,
-![home](pictures/home.png)
+![home](images/home.png)
 
 **Step Two:** Select your preferred topic,
 
-**Step Three:** Click on an article of your choice, click on the sentence you want to higlight, stop at where you want the highlight to end,  a pop-up of different colurs will emerge on your screen, select your preferred colour to highlight the text.![highlight](pictures/highlighter.png)
+**Step Three:** Click on an article of your choice, click on the sentence you want to higlight, stop at where you want the highlight to end,  a pop-up of different colurs will emerge on your screen, select your preferred colour to highlight the text.![highlight](images/highlighter.png)
 
 
 **How to add a note**:Click on the sentence you want to highlight, and you can pick a preferred color. click on the note icon and a pop-up will be made on the right hand of your screen, add your notes.
@@ -120,17 +120,17 @@ Glasp with the help of Chatgpt can be used to transcribe and summarize a YouTube
 You can do this with the following steps:
 
 **Step One:** Open YouTube on your preferred browser
-![youtube](pictures/youtubbe.png)
+![youtube](images/youtubbe.png)
 
 **Step Two:** click on the video you intend to watch
 
 **Step Three:** Click on the Glasp icon at the top right corner to highlight important sentences.
 
 **Step Four:** Click on the Chatgpt Icon at the top right corner of your browser, you will be directed to the Chatgpt interface, patiently wait as it summarizes your video.
-![gpt](pictures/gpt.png)
+![gpt](images/gpt.png)
 
 **How to explore more contents:** The explore icon lets you search for more from the search bar, you can search for more content by clicking on your preferred hashtags, Authors, or websites.
-![explore](pictures/explore.png)
+![explore](images/explore.png)
 
 **How to Search Highlights:** click on the search highlights icon to search for highlights.
 
