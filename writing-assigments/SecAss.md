@@ -17,7 +17,7 @@
 
 > ## Introduction
 
-Glasp is an AI extension that stands for "Greatest Legacy Accumulated as Shared Proof", It is tackling use cases to democratize opportunities for everyone to share and develop their learnings using highlighted information in simple clicks.   __On June 1, 2021, by Kazuki Nakayashiki and Kei Watanabe established the Glasp tool__. Its aim is to prevent the isolation of knowledge. Glasp is available only on desktops.
+Glasp is an AI extension that stands for "Greatest Legacy Accumulated as Shared Proof", It is tackling use cases to democratize opportunities for everyone to share and develop their learnings using highlighted information in simple clicks.   __On June 1, 2021,  Kazuki Nakayashiki and Kei Watanabe established the Glasp tool__. It aims to prevent the isolation of knowledge. Glasp is available only on desktops.
 
 > ## What is Glasp?
 
